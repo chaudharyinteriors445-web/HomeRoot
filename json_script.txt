@@ -1,0 +1,112 @@
+ {/* SOCIAL BUTTONS */}
+<div className="flex gap-2">
+
+  {/* X / Twitter */}
+  <Button
+    asChild
+    variant="ghost"
+    size="icon"
+    data-testid="link-social-twitter"
+  >
+    <a
+      href="#"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <SiX className="h-4 w-4" />
+    </a>
+  </Button>
+
+  {/* YouTube */}
+  <Button
+    asChild
+    variant="ghost"
+    size="icon"
+    data-testid="link-social-youTube"
+  >
+    <a
+      href="#"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <SiYoutube className="h-4 w-4" />
+    </a>
+  </Button>
+
+  {/* Instagram */}
+  <Button
+    asChild
+    variant="ghost"
+    size="icon"
+    data-testid="link-social-instagram"
+  >
+    <a
+      href="https://www.instagram.com/trueorganic_farms?igsh=MWVqNHo1NDB3b25sMA=="
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <SiInstagram className="h-4 w-4" />
+    </a>
+  </Button>
+
+  {/* Facebook */}
+  <Button
+    asChild
+    variant="ghost"
+    size="icon"
+    data-testid="link-social-facebook"
+  >
+    <a
+      href="https://www.facebook.com/share/1ACWsB1dkF/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <SiFacebook className="h-4 w-4" />
+    </a>
+  </Button>
+
+</div>
+
+
+// another code snippet
+<div className="flex gap-2">
+
+  {/* X / Twitter */}
+  <Button asChild variant="ghost" size="icon" data-testid="link-social-twitter">
+    <a href="#" target="_blank" rel="noopener noreferrer">
+      <SiX className="h-4 w-4" />
+    </a>
+  </Button>
+
+  {/* YouTube */}
+  <Button asChild variant="ghost" size="icon" data-testid="link-social-youTube">
+    <a href="#" target="_blank" rel="noopener noreferrer">
+      <SiYoutube className="h-4 w-4" />
+    </a>
+  </Button>
+
+  {/* Instagram */}
+  <Button asChild variant="ghost" size="icon" data-testid="link-social-instagram">
+    <a 
+      href="https://www.instagram.com/trueorganic_farms?igsh=MWVqNHo1NDB3b25sMA=="
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <SiInstagram className="h-4 w-4" />
+    </a>
+  </Button>
+
+  {/* Facebook */}
+  <Button asChild variant="ghost" size="icon" data-testid="link-social-facebook">
+    <a 
+      href="https://www.facebook.com/share/1ACWsB1dkF/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <SiFacebook className="h-4 w-4" />
+    </a>
+  </Button>
+
+</div>
+
+// full script
