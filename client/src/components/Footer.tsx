@@ -41,8 +41,8 @@ export default function Footer() {
               <Logo size="sm" />
             </div>
             <p className="text-sm text-muted-foreground mb-4">
-              Bringing you pure, cold-pressed organic atta from ancient grains. 
-              Committed to your health and traditional farming practices hello world.
+              Bringing you pure, stone-ground organic atta from ancient grains. 
+              Committed to your health and traditional farming practices.
             </p>
             
             <div className="flex gap-2">
@@ -76,8 +76,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/cold-pressed-benefits" className="text-sm text-muted-foreground hover:text-foreground transition-colors" data-testid="link-footer-benefits">
-                  Cold-Pressed Benefits
+                <Link
+                  href="/stone-ground-benefits"
+                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                  data-testid="link-footer-benefits"
+                >
+                  Stone-Ground Benefits
                 </Link>
               </li>
               <li>
@@ -197,7 +201,7 @@ export default function Footer() {
               <Logo size="sm" />
             </div>
             <p className="text-sm text-muted-foreground mb-4">
-              Bringing you pure, cold-pressed organic atta from ancient grains. 
+              Bringing you pure, stone-ground organic atta from ancient grains. 
               Committed to your health and traditional farming practices.
             </p>
 
@@ -259,8 +263,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/cold-pressed-benefits" className="text-sm text-muted-foreground hover:text-foreground transition-colors" data-testid="link-footer-benefits">
-                  Cold-Pressed Benefits
+                <Link
+                  href="/stone-ground-benefits"
+                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                  data-testid="link-footer-benefits"
+                >
+                  Stone-Ground Benefits
                 </Link>
               </li>
               <li>

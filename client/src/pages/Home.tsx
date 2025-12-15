@@ -26,7 +26,7 @@ export default function Home() {
             Pure Atta. Ancient Grains.<br />Modern Health.
           </h1>
           <p className="text-lg md:text-xl max-w-2xl mx-auto mb-8 text-white/90">
-            Discover our collection of cold-pressed organic flours, crafted from 
+            Discover our collection of stone-ground organic flours, crafted from 
             heritage grains to nourish your family with every roti.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -36,9 +36,14 @@ export default function Home() {
                 <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
-            <Link href="/cold-pressed-benefits">
-              <Button size="lg" variant="outline" className="bg-white/10 backdrop-blur border-white/30 text-white" data-testid="button-learn-cold-pressed">
-                Learn About Cold-Pressed
+            <Link href="/stone-ground-benefits">
+              <Button
+                size="lg"
+                variant="outline"
+                className="bg-white/10 backdrop-blur border-white/30 text-white"
+                data-testid="button-learn-stone-ground"
+              >
+                Learn About Stone-Ground
               </Button>
             </Link>
           </div>
@@ -54,7 +59,7 @@ export default function Home() {
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             From ancient Khapli wheat to nutritious millets, explore our range of 
-            cold-pressed organic flours for a healthier lifestyle.
+            stone-ground organic flours for a healthier lifestyle.
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -76,12 +81,12 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="font-heading text-3xl md:text-4xl font-semibold mb-6" data-testid="text-why-cold-pressed">
-                Why Cold-Pressed Atta?
+          <h2 className="font-heading text-3xl md:text-4xl font-semibold mb-6" data-testid="text-why-stone-ground">
+                Why Stone-Ground Atta?
               </h2>
               <p className="text-muted-foreground mb-8">
                 Unlike traditional chakki mills that generate high heat (120-150°C), 
-                our cold-pressing technology keeps temperatures below 40°C, preserving 
+                our stone-grinding process keeps temperatures below 40°C, preserving 
                 vital nutrients and natural oils.
               </p>
               <div className="space-y-4">
@@ -119,7 +124,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <Link href="/cold-pressed-benefits">
+              <Link href="/stone-ground-benefits">
                 <Button className="mt-8 bg-wheat text-wheat-foreground gap-2" data-testid="button-read-science">
                   Read the Science
                   <ArrowRight className="h-4 w-4" />
@@ -134,7 +139,7 @@ export default function Home() {
                   </div>
                   <div className="space-y-4">
                     <div className="flex justify-between items-center p-3 bg-organic-green/10 rounded-md">
-                      <span className="font-medium">Cold-Pressed Temp</span>
+                      <span className="font-medium">Stone-Ground Temp</span>
                       <span className="text-organic-green font-bold">~40°C</span>
                     </div>
                     <div className="flex justify-between items-center p-3 bg-muted rounded-md">
@@ -164,7 +169,7 @@ export default function Home() {
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
             Join thousands of health-conscious families who have switched to 
-            Home Root cold-pressed atta for healthier, tastier rotis.
+            Home Root stone-ground atta for healthier, tastier rotis.
           </p>
           <Link href="/products">
             <Button size="lg" className="bg-wheat text-wheat-foreground gap-2" data-testid="button-shop-now">

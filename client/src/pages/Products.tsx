@@ -18,7 +18,7 @@ export default function Products() {
           Our Atta Collection
         </h1>
         <p className="text-muted-foreground">
-          Explore our range of cold-pressed organic flours
+          Explore our range of stone-ground organic flours
         </p>
       </div>
 

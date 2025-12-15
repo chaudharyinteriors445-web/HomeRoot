@@ -42,11 +42,11 @@
 - Full-width background image of golden wheat fields at sunset
 - Centered overlay content with blurred-background buttons
 - Tagline: "Pure Atta. Ancient Grains. Modern Health." in large serif
-- Dual CTAs: "Explore Products" + "Learn About Cold-Pressed"
+- Dual CTAs: "Explore Products" + "Learn About Stone-Ground"
 
 **Trust Badges Section**:
 - 4-column grid (2x2 on mobile) featuring circular icons
-- Badges: "100% Organic", "Cold-Pressed", "Stone-Ground", "Low GI"
+- Badges: "100% Organic", "Stone-Ground", "Low GI"
 - Each badge: icon + title + one-line description
 
 **Featured Products Grid**:
@@ -54,7 +54,7 @@
 - 6 product cards showcasing Khapli, Whole Wheat, Multigrain, Bajra, Jowar, Ragi
 - Each card: product image, title, short description, badge, CTA
 
-**Why Cold-Pressed Preview**:
+**Why Stone-Ground Preview**:
 - 2-column split: left side has 3 key benefits with icons, right side has comparison image or illustration
 - Link to full comparison page
 
@@ -78,8 +78,8 @@
 - Horizontal scroll carousel showing 4-6 related items
 - "Order via WhatsApp" button (prominent, wheat color, with WhatsApp icon)
 
-### Cold-Pressed Benefits Page
-**Hero**: Bold headline "The Science Behind Cold-Pressed Atta"
+### Stone-Ground Benefits Page
+**Hero**: Bold headline "The Science Behind Stone-Ground Atta"
 
 **7 Scientific Benefits**:
 - Vertical card layout with alternating image/text sides
@@ -87,10 +87,10 @@
 - Benefits: Lower Heat/Higher Nutrients, Better Fiber, Lower GI, Wheat-Germ Oil, No Burnt Aroma, Longer Shelf Life, Better Dough Quality
 
 ### Comparison Page
-**Header**: "Cold-Pressed vs Chakki Atta: The Complete Comparison"
+**Header**: "Stone-Ground vs Chakki Atta: The Complete Comparison"
 
 **Comparison Table**:
-- Side-by-side columns with Cold-Pressed (green highlights) vs Chakki Atta (neutral)
+- Side-by-side columns with Stone-Ground (green highlights) vs Chakki Atta (neutral)
 - Rows: Temperature, Nutrient Retention, Fiber Quality, Glycemic Index, Oil Preservation, Aroma, Shelf Life, Roti Quality
 
 **Visual Cards Section**:
@@ -116,7 +116,7 @@
 
 ### Navigation Header
 - Logo left, menu center/right
-- Menu items: Home, Products, Cold-Pressed Benefits, About, Contact
+- Menu items: Home, Products, Stone-Ground Benefits, About, Contact
 - Mobile: Hamburger menu
 - Sticky on scroll
 
@@ -180,4 +180,4 @@
 - Form validation with clear error messages
 - Touch targets minimum 44x44px for mobile
 
-This design creates a premium, trustworthy e-commerce experience that educates users on cold-pressed benefits while showcasing the product line with earthy, natural aesthetics.
+This design creates a premium, trustworthy e-commerce experience that educates users on stone-ground benefits while showcasing the product line with earthy, natural aesthetics.

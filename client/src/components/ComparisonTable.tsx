@@ -88,7 +88,7 @@ export default function ComparisonTable() {
     <Card>
       <CardHeader>
         <CardTitle className="font-heading text-center">
-          Cold-Pressed vs Chakki Atta: Complete Comparison
+          Stone-Ground vs Chakki Atta: Complete Comparison
         </CardTitle>
       </CardHeader>
       <CardContent>
@@ -99,7 +99,7 @@ export default function ComparisonTable() {
                 <th className="text-left py-3 px-4 font-medium">Feature</th>
                 <th className="text-center py-3 px-4">
                   <div className="flex flex-col items-center gap-1">
-                    <Badge className="bg-organic-green text-organic-green-foreground">Cold-Pressed</Badge>
+                    <Badge className="bg-organic-green text-organic-green-foreground">Stone-Ground</Badge>
                   </div>
                 </th>
                 <th className="text-center py-3 px-4">

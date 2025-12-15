@@ -8,7 +8,7 @@ import { Menu, Wheat, X} from 'lucide-react';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/products', label: 'Products' },
-  { href: '/cold-pressed-benefits', label: 'Cold-Pressed Benefits' },
+  { href: '/stone-ground-benefits', label: 'Stone-Ground Benefits' },
   { href: '/compare', label: 'Compare' },
   { href: '/about', label: 'About' },
   { href: '/contact', label: 'Contact' },
