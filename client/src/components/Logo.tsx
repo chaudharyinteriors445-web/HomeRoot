@@ -122,7 +122,7 @@ export default function Logo({ className = '', size = 'md', showText = true }: L
             className={`font-heading font-semibold tracking-wide text-foreground ${text}`}
             style={{ letterSpacing: '0.12em' }}
           >
-            TRUE ORGANIC
+            HOME ROOT
           </span>
           <span 
             className="text-xs tracking-[0.3em] text-muted-foreground uppercase"

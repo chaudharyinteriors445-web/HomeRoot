@@ -137,7 +137,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} TrueOrganic Farms. All rights reserved. Made with care for your health.
+            © {new Date().getFullYear()} Home Root Farms. All rights reserved. Made with care for your health.
           </p>
         </div>
       </div>
@@ -149,7 +149,7 @@ export default function Footer() {
 
 import { Link } from 'wouter';
 import { Mail, Phone, MapPin } from 'lucide-react';
-import { SiWhatsapp, SiInstagram, SiFacebook, SiTwitch, SiX, SiYoutube } from 'react-icons/si';
+import { SiInstagram, SiFacebook, SiX, SiYoutube } from 'react-icons/si';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import Logo from './Logo';
@@ -221,7 +221,7 @@ export default function Footer() {
               {/* Instagram */}
               <Button asChild variant="ghost" size="icon" data-testid="link-social-instagram">
                 <a 
-                  href="https://www.instagram.com/trueorganic_farms?igsh=MWVqNHo1NDB3b25sMA=="
+                  href="https://www.instagram.com/homeroot_farms/?utm_source=ig_web_button_share_sheet"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -232,7 +232,7 @@ export default function Footer() {
               {/* Facebook */}
               <Button asChild variant="ghost" size="icon" data-testid="link-social-facebook">
                 <a 
-                  href="https://www.facebook.com/share/1ACWsB1dkF/"
+                  href="https://www.facebook.com/profile.php?id=61584599555016"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -314,7 +314,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-wheat flex-shrink-0" />
-                <span className="text-sm text-muted-foreground">info.trueorganicfarms@gmail.com</span>
+                <span className="text-sm text-muted-foreground">homerootfarms@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -323,7 +323,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} TrueOrganic Farms. All rights reserved. 
+            © {new Date().getFullYear()} Home Root Farms. All rights reserved. 
             Made with care for your health.
           </p>
         </div>

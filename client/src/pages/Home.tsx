@@ -164,7 +164,7 @@ export default function Home() {
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
             Join thousands of health-conscious families who have switched to 
-            TrueOrganic cold-pressed atta for healthier, tastier rotis.
+            Home Root cold-pressed atta for healthier, tastier rotis.
           </p>
           <Link href="/products">
             <Button size="lg" className="bg-wheat text-wheat-foreground gap-2" data-testid="button-shop-now">

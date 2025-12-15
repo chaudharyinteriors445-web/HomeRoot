@@ -165,7 +165,7 @@ export default function Compare() {
             Make the Healthy Choice Today
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
-            Switch to TrueOrganic cold-pressed atta and experience the difference 
+            Switch to Home Root cold-pressed atta and experience the difference 
             in taste, nutrition, and quality.
           </p>
           <Link href="/products">

@@ -16,7 +16,7 @@ export default function WhatsAppButton({
   floating = false 
 }: WhatsAppButtonProps) {
   const defaultMessage = productName 
-    ? `Hi! I'm interested in ordering ${productName} from TrueOrganic Farms. Please share more details.`
+    ? `Hi! I'm interested in ordering ${productName} from Home Root Farms. Please share more details.`
     : 'Hi! I would like to know more about your organic atta products.';
   
   const whatsappUrl = `https://wa.me/${WA_NUMBER.replace(/[^0-9]/g, '')}?text=${encodeURIComponent(message || defaultMessage)}`;

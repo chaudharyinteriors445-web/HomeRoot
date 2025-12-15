@@ -1,8 +1,8 @@
-# TrueOrganic Farms - Atta Collection
+# Home Root Farms - Atta Collection
 
 ## Overview
 
-TrueOrganic Farms is an e-commerce web application for a premium organic flour brand specializing in cold-pressed atta (flour) products made from ancient grains and millets. The application showcases a collection of heritage grain flours with detailed product information, health benefits, and educational content about cold-pressing technology. The platform emphasizes the nutritional advantages of cold-pressed flours over traditional chakki-milled alternatives, targeting health-conscious consumers seeking high-quality, nutrient-rich flour products.
+Home Root Farms is an e-commerce web application for a premium organic flour brand specializing in cold-pressed atta (flour) products made from ancient grains and millets. The application showcases a collection of heritage grain flours with detailed product information, health benefits, and educational content about cold-pressing technology. The platform emphasizes the nutritional advantages of cold-pressed flours over traditional chakki-milled alternatives, targeting health-conscious consumers seeking high-quality, nutrient-rich flour products.
 
 ## User Preferences
 

@@ -187,7 +187,7 @@ export default function Contact() {
                 Interested in bulk orders for restaurants, hotels, or retail stores? 
                 We offer competitive wholesale pricing with reliable delivery.
               </p>
-              <WhatsAppButton message="Hi! I'm interested in wholesale pricing for TrueOrganic Farms atta products. Please share your bulk order rates and minimum quantities." />
+              <WhatsAppButton message="Hi! I'm interested in wholesale pricing for Home Root Farms atta products. Please share your bulk order rates and minimum quantities." />
             </CardContent>
           </Card>
         </div>

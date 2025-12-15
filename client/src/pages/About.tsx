@@ -12,7 +12,7 @@ export default function About() {
             Our Story
           </h1>
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
-            From the fertile fields of Haryana to your kitchen – the TrueOrganic journey.
+            From the fertile fields of Haryana to your kitchen – the Home Root journey.
           </p>
         </div>
       </section>
@@ -20,7 +20,7 @@ export default function About() {
       <section className="py-16 container mx-auto px-4">
         <div className="max-w-3xl mx-auto prose prose-lg dark:prose-invert">
           <p className="text-lg leading-relaxed text-muted-foreground">
-            TrueOrganic Farms was born from a simple belief: the food we eat should nourish, 
+            Home Root Farms was born from a simple belief: the food we eat should nourish, 
             not just fill. In the heart of Haryana's wheat belt, our founder watched as 
             traditional farming gave way to industrial practices, and ancient grains were 
             forgotten in favor of high-yield varieties.
@@ -135,7 +135,7 @@ export default function About() {
       <section className="py-16 bg-wheat/10">
         <div className="container mx-auto px-4 text-center">
           <h2 className="font-heading text-2xl md:text-3xl font-bold mb-4">
-            Join the TrueOrganic Family
+            Join the Home Root Family
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
             Every purchase supports sustainable farming, preserves ancient grains, 

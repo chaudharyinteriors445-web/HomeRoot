@@ -26,12 +26,12 @@ export default function Header() {
        <Link href="/" className="flex items-center gap-2" data-testid="link-home-logo">
           {/* <Wheat className="h-8 w-8 text-wheat" />
           <div className="flex flex-col">
-            <span className="font-serif text-lg font-bold leading-tight">TrueOrganic</span>
+            <span className="font-serif text-lg font-bold leading-tight">Home Root</span>
             <span className="text-xs text-muted-foreground leading-tight">Farms</span>
           </div> */}
           <Wheat className="h-10 w-10 text-wheat" />
           <div className="flex flex-col leading-tight">
-            <span className="font-serif text-2xl font-semibold">TrueOrganic</span>
+            <span className="font-serif text-2xl font-semibold">Home Root</span>
             <span className="text-md text-muted-foreground">Farms</span>
           </div>
 

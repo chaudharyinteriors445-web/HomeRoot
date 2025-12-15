@@ -1,4 +1,4 @@
-# TrueOrganic Farms – Atta Collection Design Guidelines
+# Home Root Farms – Atta Collection Design Guidelines
 
 ## Design Approach
 **Reference-Based Approach**: Drawing inspiration from premium organic/natural food brands (Whole Foods, Thrive Market) combined with clean e-commerce patterns (Shopify stores). The design emphasizes trust, authenticity, and scientific credibility while maintaining an earthy, premium aesthetic.
