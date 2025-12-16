@@ -148,8 +148,7 @@ export default function Contact() {
                 <div>
                   <p className="font-medium">Address</p>
                   <p className="text-muted-foreground text-sm">
-                    Village Sundarpur, Near Grain Market<br />
-                    District Karnal, Haryana 132001
+                    Ghanta ghar, meerut city, Uttar Pradesh, India.
                   </p>
                 </div>
               </div>
@@ -157,14 +156,14 @@ export default function Contact() {
                 <Phone className="h-5 w-5 text-wheat mt-0.5 flex-shrink-0" />
                 <div>
                   <p className="font-medium">Phone</p>
-                  <p className="text-muted-foreground text-sm">+91 98765 43210</p>
+                  <p className="text-muted-foreground text-sm">+91 93583 83671</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-wheat mt-0.5 flex-shrink-0" />
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-muted-foreground text-sm">hello@trueorganicfarms.in</p>
+                  <p className="text-muted-foreground text-sm">homerootfarms@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">

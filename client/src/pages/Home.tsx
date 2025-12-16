@@ -257,7 +257,7 @@ export default function Home() {
             className="text-lg md:text-xl max-w-2xl mx-auto mb-8 text-white/90"
             variants={fadeInUp}
           >
-            Discover our collection of cold-pressed organic flours, crafted from 
+            Discover our collection of stone-ground organic flours, crafted from 
             heritage grains to nourish your family with every roti.
           </motion.p>
           <motion.div 
@@ -274,14 +274,14 @@ export default function Home() {
                 <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
-            <Link href="/cold-pressed-benefits">
+            <Link href="/stone-ground-benefits">
               <Button 
                 size="lg" 
                 variant="outline" 
                 className="bg-white/10 backdrop-blur border-white/30 text-white hover:bg-white/20 hover:scale-105 transition-all duration-200" 
-                data-testid="button-learn-cold-pressed"
+                data-testid="button-learn-stone-ground"
               >
-                Learn About Cold-Pressed
+                Learn About Stone-Ground
               </Button>
             </Link>
           </motion.div>
@@ -309,7 +309,7 @@ export default function Home() {
             variants={fadeInUp}
           >
             From ancient Khapli wheat to nutritious millets, explore our range of 
-            cold-pressed organic flours for a healthier lifestyle.
+            stone-ground organic flours for a healthier lifestyle.
           </motion.p>
         </motion.div>
         <motion.div 
@@ -357,12 +357,12 @@ export default function Home() {
             variants={staggerContainer}
           >
             <motion.div variants={fadeInUp}>
-              <h2 className="font-heading text-3xl md:text-4xl font-semibold mb-6" data-testid="text-why-cold-pressed">
-                Why Cold-Pressed Atta?
+              <h2 className="font-heading text-3xl md:text-4xl font-semibold mb-6" data-testid="text-why-stone-ground">
+                Why Stone-Ground Atta?
               </h2>
               <p className="text-muted-foreground mb-8 text-lg leading-relaxed">
                 Unlike traditional chakki mills that generate high heat (120-150°C), 
-                our cold-pressing technology keeps temperatures below 40°C, preserving 
+                our stone-grinding technology keeps temperatures below 40°C, preserving 
                 vital nutrients and natural oils.
               </p>
               <div className="space-y-5">
@@ -412,7 +412,7 @@ export default function Home() {
                   </div>
                 </motion.div>
               </div>
-              <Link href="/cold-pressed-benefits">
+              <Link href="/stone-ground-benefits">
                 <Button 
                   className="mt-8 bg-wheat text-wheat-foreground gap-2 hover:scale-105 transition-transform duration-200 shadow-lg hover:shadow-xl" 
                   data-testid="button-read-science"
@@ -437,7 +437,7 @@ export default function Home() {
                       whileHover={{ scale: 1.02 }}
                       transition={{ type: "spring", stiffness: 400 }}
                     >
-                      <span className="font-medium">Cold-Pressed Temp</span>
+                      <span className="font-medium">Stone-Ground Temp</span>
                       <span className="text-organic-green font-bold text-lg">~40°C</span>
                     </motion.div>
                     <div className="flex justify-between items-center p-4 bg-muted rounded-md">
@@ -477,7 +477,7 @@ export default function Home() {
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-10 text-lg">
             Join thousands of health-conscious families who have switched to 
-            Home Root cold-pressed atta for healthier, tastier rotis.
+            Home Root stone-ground atta for healthier, tastier rotis.
           </p>
           <Link href="/products">
             <Button size="lg" className="bg-wheat text-wheat-foreground gap-2 hover:scale-110 transition-transform duration-200 shadow-lg hover:shadow-xl" data-testid="button-shop-now">

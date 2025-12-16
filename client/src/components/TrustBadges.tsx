@@ -9,7 +9,7 @@ const badges = [
   },
   {
     icon: <Snowflake className="h-8 w-8" />,
-    title: 'Cold Pressed',
+    title: 'Stone Ground',
     description: 'Milled below 40°C to preserve nutrients',
   },
   {

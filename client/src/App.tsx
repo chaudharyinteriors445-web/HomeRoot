@@ -9,7 +9,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import Home from "@/pages/Home";
 import Products from "@/pages/Products";
 import ProductDetail from "@/pages/ProductDetail";
-import ColdPressedBenefits from "@/pages/ColdPressedBenefits";
+import StoneGroundBenefits from "@/pages/StoneGroundBenefits";
 import Compare from "@/pages/Compare";
 import About from "@/pages/About";
 import Contact from "@/pages/Contact";
@@ -22,7 +22,7 @@ function Router() {
       <Route path="/" component={Home} />
       <Route path="/products" component={Products} />
       <Route path="/products/:slug" component={ProductDetail} />
-      <Route path="/stone-ground-benefits" component={ColdPressedBenefits} />
+      <Route path="/stone-ground-benefits" component={StoneGroundBenefits} />
       <Route path="/compare" component={Compare} />
       <Route path="/about" component={About} />
       <Route path="/contact" component={Contact} />

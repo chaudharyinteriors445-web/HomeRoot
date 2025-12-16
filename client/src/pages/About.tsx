@@ -38,7 +38,7 @@ export default function About() {
             But growing organic grains was only half the battle. We discovered that 
             traditional chakki mills, while better than industrial rollers, still 
             generated significant heat during milling – destroying the very nutrients 
-            we worked so hard to grow. That's when we invested in cold-pressing 
+            we worked so hard to grow. That's when we invested in stone-grinding 
             technology that keeps temperatures below 40°C, preserving the natural 
             goodness in every grain.
           </p>

@@ -25,7 +25,7 @@ export interface Product {
     fat: string;
   };
   idealUsage: string[];
-  isColdPressed: boolean;
+  isStoneGround: boolean;
 }
 
 export const products: Product[] = [
@@ -55,7 +55,7 @@ export const products: Product[] = [
       fat: '2.5g'
     },
     idealUsage: ['Roti', 'Paratha', 'Chapati', 'Puri'],
-    isColdPressed: true
+    isStoneGround: true
   },
   {
     id: '2',
@@ -83,7 +83,7 @@ export const products: Product[] = [
       fat: '1.7g'
     },
     idealUsage: ['Roti', 'Chapati', 'Paratha', 'Thepla'],
-    isColdPressed: true
+    isStoneGround: true
   },
   {
     id: '3',
@@ -111,7 +111,7 @@ export const products: Product[] = [
       fat: '3g'
     },
     idealUsage: ['Roti', 'Paratha', 'Thepla', 'Health Bread'],
-    isColdPressed: true
+    isStoneGround: true
   },
   {
     id: '4',
@@ -139,7 +139,7 @@ export const products: Product[] = [
       fat: '5g'
     },
     idealUsage: ['Bajra Roti', 'Khichdi', 'Ladoo', 'Winter Rotis'],
-    isColdPressed: true
+    isStoneGround: true
   },
   {
     id: '5',
@@ -167,7 +167,7 @@ export const products: Product[] = [
       fat: '3.4g'
     },
     idealUsage: ['Jowar Roti', 'Bhakri', 'Dosa', 'Upma'],
-    isColdPressed: true
+    isStoneGround: true
   },
   {
     id: '6',
@@ -195,7 +195,7 @@ export const products: Product[] = [
       fat: '1.3g'
     },
     idealUsage: ['Ragi Roti', 'Ragi Mudde', 'Ragi Dosa', 'Ragi Ladoo'],
-    isColdPressed: true
+    isStoneGround: true
   }
 ];
 

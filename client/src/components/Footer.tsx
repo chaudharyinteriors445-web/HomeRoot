@@ -313,7 +313,7 @@ export default function Footer() {
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 text-wheat mt-0.5 flex-shrink-0" />
                 <span className="text-sm text-muted-foreground">
-                  218, kotla, Ghanra ghar meerut city, Uttar Pradesh, India.
+                  Ghanta ghar, meerut city, Uttar Pradesh, India.
                 </span>
               </li>
               <li className="flex items-center gap-2">

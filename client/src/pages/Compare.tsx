@@ -9,21 +9,21 @@ const highlights = [
     icon: <Thermometer className="h-10 w-10" />,
     title: 'Temperature Matters',
     description: 'Stone-ground mills operate at ~40°C vs chakki mills at 120-150°C. This 80-100°C difference is crucial for preserving heat-sensitive vitamins.',
-    statCold: '40°C',
+    statStoneGround: '40°C',
     statChakki: '150°C',
   },
   {
     icon: <Shield className="h-10 w-10" />,
     title: 'Nutrient Protection',
     description: 'Our stone-grinding process retains up to 98% of original nutrients, while traditional milling loses 30-40% of vitamins and antioxidants to heat damage.',
-    statCold: '98%',
+    statStoneGround: '98%',
     statChakki: '60%',
   },
   {
     icon: <Leaf className="h-10 w-10" />,
     title: 'Natural Oils Preserved',
     description: 'Wheat germ oil containing Vitamin E and Omega-3 is preserved in stone-ground atta, while high heat causes oxidation in chakki atta.',
-    statCold: 'Preserved',
+    statStoneGround: 'Preserved',
     statChakki: 'Oxidized',
   },
 ];
@@ -60,7 +60,7 @@ export default function Compare() {
                 <p className="text-muted-foreground mb-6">{highlight.description}</p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="p-3 bg-organic-green/10 rounded-md">
-                    <p className="text-2xl font-bold text-organic-green">{highlight.statCold}</p>
+                    <p className="text-2xl font-bold text-organic-green">{highlight.statStoneGround}</p>
                     <p className="text-xs text-muted-foreground">Stone-Ground</p>
                   </div>
                   <div className="p-3 bg-muted rounded-md">
