@@ -8,7 +8,7 @@ interface WhatsAppButtonProps {
   floating?: boolean;
 }
 
-const WA_NUMBER = '+919876543210';
+const WA_NUMBER = '+919358383671';
 
 export default function WhatsAppButton({ 
   message, 
